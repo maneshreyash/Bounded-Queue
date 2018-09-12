@@ -1,5 +1,3 @@
-package ssm170730;
-
 import java.util.Scanner;
 
 public class BoundedQueue<T> {
